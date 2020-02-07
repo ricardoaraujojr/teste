@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 vai pra master
+=======
+yyy
+>>>>>>> fb76fd3349d6ab6769bd6f50128bb543de08a6e7
